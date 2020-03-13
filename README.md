@@ -12,4 +12,4 @@ Steps:
  7. Make the chosen cell the current cell and mark it as visited
  8. Else if the stack is not empty
  9. Pop a cell from the stack
-10. Make it the curren cell
+10. Make it the current cell
