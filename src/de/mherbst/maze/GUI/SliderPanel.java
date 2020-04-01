@@ -22,7 +22,7 @@ public class SliderPanel extends JPanel {
 	
 	public SliderPanel() {
 		
-		sliderWert = 100;
+		sliderWert = 110;
 		
 		prozentLabel = new JLabel("(0100 %)");
 		mousePositionLabel = new JLabel("Mouse: (0000|0000)");
